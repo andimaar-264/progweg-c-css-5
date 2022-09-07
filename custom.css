@@ -11,7 +11,7 @@ body {
     margin: auto;
     height: 120px;
     line-height: 120px;
-    background: #00ffbf;
+    background: #0084ff;
     color: #fff;
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 .border {
-    border: 2px solid #00ffbf;
+    border: 2px solid #0084ff;
     margin-top: 1pc;
     padding-bottom: 1pc;
     padding-left: 2pc;
@@ -57,12 +57,12 @@ body {
     margin: auto;
     height: 40px;
     line-height: 40px;
-    background: #00ffbf;
+    background: #0084ff;
     color: #fff;
 }
 
 .menu {
-    background-color: #00ffbf;
+    background-color: #0084ff;
     height: 50px;
     line-height: 50px;
     position: relative;
@@ -89,6 +89,6 @@ body {
 }
 
 .menu ul li a:hover {
-    background-color: #74C599;
+    background-color: #0084ff;
     display: block;
 }
